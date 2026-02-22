@@ -1,4 +1,5 @@
 # Smart Parking System with AI + Blynk
+![Uploading image.png…]()
 
 ## Description
 This project uses **ESP32 + Ultrasonic Sensors** to detect parking slot occupancy and displays it on a **Blynk Dashboard**.  
